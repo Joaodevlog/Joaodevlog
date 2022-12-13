@@ -1,4 +1,4 @@
-[https://joaodevlog.github.io/Joaodevlog/](Desenvolvimento website estagio ,html,css)
+[https://joaodevlog.github.io/Joaodevlog/]-(Desenvolvimento website estagio ,html,css)
 
 
 
